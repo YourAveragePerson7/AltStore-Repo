@@ -5,8 +5,8 @@
   "subtitle": "YourAveragePerson7's AltStore Repo.",
   "description": "This is an AltStore Repo made by YourAveragePerson7, the whole purpose of this is to make it easy (for me) to download my apps and sideload them.",
   "tintColor": "e22a41",
-  "iconURL": "http://raw.githubusercontent.com/YourAveragePerson7/AltStore-Repo/main/icon.png",
-  "headerURL": "https://raw.githubusercontent.com/YourAveragePerson7/AltStore-Repo/main/header.png",
+  "iconURL": "",
+  "headerURL": "",
   "apps": [
     {
       "beta": false,
