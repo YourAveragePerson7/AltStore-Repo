@@ -1,12 +1,12 @@
 {
-  "name": "YTLitePlus",
-  "identifier": "com.ytlite.source",
-  "website": "https://ytliteplus.github.io",
-  "subtitle": "YTLitePlus official Altstore source.",
-  "description": "This is the official Altstore source for YTLitePlus.\n\nYTLitePlus is an enhanced Youtube app that offers a superior Youtube experience, combining YTLite (by @dayanch96) with numerous other tweaks.\n\nFor full details on what's included, check the GitHub repository:\n\nhttps://github.com/YTLitePlus/YTLitePlus",
+  "name": "YourAveragePerson7's AltStore Repo",
+  "identifier": "com.YourAveragePerson7.source",
+  "website": "https://github.com/YourAveragePerson7",
+  "subtitle": "YourAveragePerson7's AltStore Repo.",
+  "description": "This is an AltStore Repo made by YourAveragePerson7, the whole purpose of this is to make it easy (for me) to download my apps and sideload them.",
   "tintColor": "e22a41",
-  "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
-  "headerURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/screenshots/header/altstore_header.png",
+  "iconURL": "http://raw.githubusercontent.com/YourAveragePerson7/AltStore-Repo/main/icon.png",
+  "headerURL": "https://raw.githubusercontent.com/YourAveragePerson7/AltStore-Repo/main/header.png",
   "apps": [
     {
       "beta": false,
